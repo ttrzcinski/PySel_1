@@ -14,4 +14,4 @@ def test_google_pl():
 
     # Assert
     # Check title
-    assert(driver.title is not None)
+    assert driver.title is not None
