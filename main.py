@@ -2,6 +2,7 @@ import sys
 
 
 def print_py_ver(actual_version):
+    """ Printing to console version of installed and running Python interpreter. """
     print(f'You python ver is, {actual_version}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
