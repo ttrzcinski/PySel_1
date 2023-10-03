@@ -7,5 +7,5 @@ def print_py_ver(actual_version):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    py_ver = sys.version
-    print_py_ver(py_ver)
+    PY_VER = sys.version
+    print_py_ver(PY_VER)
