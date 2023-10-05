@@ -1,4 +1,4 @@
-name: Testing Staticly Code with Pylint
+name: Testing Statically Code with Pylint
 
 on: [push]
 
